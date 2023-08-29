@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T13:26:22.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="h1dKW4Wy_c6pjqLH0cpb" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T13:35:37.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PQMhO43hoo4CKicYc2vV" version="21.6.9" type="github">
   <diagram name="Page-1" id="eew-vyPHLmzTsxwFZZyj">
     <mxGraphModel dx="947" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yCXSfNRGas55IirnGtBg-3" value="Prefixes" style="graphMlID=n0;shape=swimlane;startSize=20;fillColor=#b7b69e;strokeColor=#000000;strokeWidth=1.0;align=right;spacingRight=10;fontStyle=0;rounded=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2" y="410" width="388" height="114.09953721049042" as="geometry" />
+          <mxGeometry x="2" y="283" width="388" height="114.09953721049042" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-4" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;core:&lt;br&gt;mc:&lt;br&gt;mp:&lt;br&gt;mf:&lt;br&gt;mo:&lt;br&gt;mto:&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Courier New;rounded=1;labelBorderColor=none;fontStyle=1" vertex="1" parent="yCXSfNRGas55IirnGtBg-3">
           <mxGeometry x="1.416452437349733" y="14.099537210490428" width="60" height="100" as="geometry" />
@@ -14,15 +14,15 @@
           <mxGeometry x="66.41645243734973" y="14.099537210490428" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-6" value="jams:includesObservation owl:allValuesFrom jams:JAMSScoreObservation" style="graphMlID=n5;shape=rect;rounded=1;arcsize=30;fillColor=#ffff99;strokeColor=#000000;strokeWidth=1.0;dashed=1;dashPattern=1 3;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="2" y="260" width="410" height="44" as="geometry" />
+          <mxGeometry x="2" y="133" width="410" height="44" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-7" value="jams:JAMSScoreAnnotation" style="graphMlID=n4;shape=rect;rounded=1;arcsize=30;fillColor=#ffff00;strokeColor=#000000;strokeWidth=1.0;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry y="133" width="160" height="44" as="geometry" />
+          <mxGeometry y="6" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-8" value="" style="endArrow=classic;html=1;textDirection=ltr;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.192;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;fontStyle=0" edge="1" parent="1" source="yCXSfNRGas55IirnGtBg-7" target="yCXSfNRGas55IirnGtBg-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="195" y="350" as="sourcePoint" />
-            <mxPoint x="175" y="260" as="targetPoint" />
+            <mxPoint x="195" y="223" as="sourcePoint" />
+            <mxPoint x="175" y="133" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-9" value="rdfs:subClassOf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rotation=0;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" connectable="0" parent="yCXSfNRGas55IirnGtBg-8">
@@ -32,8 +32,8 @@
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-10" value="" style="endArrow=classic;html=1;textDirection=ltr;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;fontStyle=0" edge="1" parent="1" source="yCXSfNRGas55IirnGtBg-7" target="yCXSfNRGas55IirnGtBg-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="275" y="152" as="sourcePoint" />
-            <mxPoint x="422.95000000000005" y="151.5" as="targetPoint" />
+            <mxPoint x="275" y="25" as="sourcePoint" />
+            <mxPoint x="422.95000000000005" y="24.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-11" value="rdfs:subClassOf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rotation=0;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" connectable="0" parent="yCXSfNRGas55IirnGtBg-10">
@@ -42,15 +42,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-12" value="jams:JAMSAnnotation" style="graphMlID=n4;shape=rect;rounded=1;arcsize=30;fillColor=#ffff00;strokeColor=#000000;strokeWidth=1.0;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="285" y="133" width="140" height="44" as="geometry" />
+          <mxGeometry x="285" y="6" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-13" value="jams:JAMSObservation" style="graphMlID=n4;shape=rect;rounded=1;arcsize=30;fillColor=#ffff00;strokeColor=#000000;strokeWidth=1.0;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="595" y="133" width="140" height="44" as="geometry" />
+          <mxGeometry x="595" y="6" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-14" value="" style="graphMlID=e0;rounded=1;endArrow=block;strokeColor=#000080;strokeWidth=1.0;startArrow=oval;startFill=1;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBorderColor=none;fontStyle=0" edge="1" parent="1" source="yCXSfNRGas55IirnGtBg-12" target="yCXSfNRGas55IirnGtBg-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="485" y="154.58183758898736" as="sourcePoint" />
-            <mxPoint x="636" y="154.5" as="targetPoint" />
+            <mxPoint x="485" y="27.581837588987355" as="sourcePoint" />
+            <mxPoint x="636" y="27.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-15" value="&lt;span style=&quot;color: rgb(0, 0, 128); background-color: rgb(248, 249, 250);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;jams:JAMSIncludesObservation&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" connectable="0" parent="yCXSfNRGas55IirnGtBg-14">
@@ -58,49 +58,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yCXSfNRGas55IirnGtBg-17" value="xsd:float" style="graphMlID=n6;shape=parallelogram;fillColor=#ccffcc;strokeColor=#000000;strokeWidth=1.0;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="730" width="105.09" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yCXSfNRGas55IirnGtBg-18" value="xsd:float" style="graphMlID=n6;shape=parallelogram;fillColor=#ccffcc;strokeColor=#000000;strokeWidth=1.0;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="490" width="101.09" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yCXSfNRGas55IirnGtBg-19" value="" style="graphMlID=e6;rounded=1;endArrow=block;strokeColor=#008000;dashed=1;dashPattern=1 1;strokeWidth=1.0;startArrow=oval;startFill=0;endFill=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.571;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=none;fontStyle=0" edge="1" parent="1" source="yCXSfNRGas55IirnGtBg-13" target="yCXSfNRGas55IirnGtBg-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="455" y="100" as="sourcePoint" />
-            <mxPoint x="731" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yCXSfNRGas55IirnGtBg-20" value="&lt;span style=&quot;color: rgb(0, 128, 0); background-color: rgb(248, 249, 250);&quot;&gt;&lt;font face=&quot;dialog&quot; style=&quot;font-size: 12px;&quot;&gt;jams:hasDuration&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" connectable="0" parent="yCXSfNRGas55IirnGtBg-19">
-          <mxGeometry x="-0.087" y="3" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yCXSfNRGas55IirnGtBg-22" value="" style="graphMlID=e6;rounded=1;endArrow=block;strokeColor=#008000;dashed=1;dashPattern=1 1;strokeWidth=1.0;startArrow=oval;startFill=0;endFill=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBorderColor=none;fontStyle=0" edge="1" parent="1" source="yCXSfNRGas55IirnGtBg-13" target="yCXSfNRGas55IirnGtBg-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="740" y="143" as="sourcePoint" />
-            <mxPoint x="791" y="50" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yCXSfNRGas55IirnGtBg-23" value="&lt;span style=&quot;color: rgb(0, 128, 0); background-color: rgb(248, 249, 250);&quot;&gt;&lt;font face=&quot;dialog&quot; style=&quot;font-size: 12px;&quot;&gt;jams:hasDuration&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" connectable="0" parent="yCXSfNRGas55IirnGtBg-22">
-          <mxGeometry x="-0.087" y="3" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-24" value="jams:JAMSScoreObservation" style="graphMlID=n4;shape=rect;rounded=1;arcsize=30;fillColor=#ffff00;strokeColor=#000000;strokeWidth=1.0;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="575" y="220" width="180" height="44" as="geometry" />
+          <mxGeometry x="575" y="110" width="180" height="44" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-25" value="jams:ScorePatternOccurence" style="graphMlID=n4;shape=rect;rounded=1;arcsize=30;fillColor=#ffff00;strokeColor=#000000;strokeWidth=1.0;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="550" y="350" width="230" height="44" as="geometry" />
+          <mxGeometry x="550" y="223" width="230" height="44" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-26" value="jams:ofPattern" style="graphMlID=n4;shape=rect;rounded=1;arcsize=30;fillColor=#ffff00;strokeColor=#000000;strokeWidth=1.0;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="100" height="44" as="geometry" />
+          <mxGeometry x="350" y="223" width="100" height="44" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-27" value="" style="endArrow=classic;html=1;textDirection=ltr;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;fontStyle=0" edge="1" parent="1" source="yCXSfNRGas55IirnGtBg-13" target="yCXSfNRGas55IirnGtBg-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="605" y="220" as="sourcePoint" />
-            <mxPoint x="740" y="220" as="targetPoint" />
+            <mxPoint x="605" y="93" as="sourcePoint" />
+            <mxPoint x="740" y="93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-28" value="rdfs:subClassOf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rotation=0;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" connectable="0" parent="yCXSfNRGas55IirnGtBg-27">
@@ -110,8 +80,8 @@
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-30" value="" style="endArrow=classic;html=1;textDirection=ltr;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontStyle=0" edge="1" parent="1" source="yCXSfNRGas55IirnGtBg-24" target="yCXSfNRGas55IirnGtBg-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="275" as="sourcePoint" />
-            <mxPoint x="690" y="328" as="targetPoint" />
+            <mxPoint x="690" y="148" as="sourcePoint" />
+            <mxPoint x="690" y="201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-31" value="rdfs:subClassOf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rotation=0;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" connectable="0" parent="yCXSfNRGas55IirnGtBg-30">
@@ -120,13 +90,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-33" value="xsd:string" style="graphMlID=n6;shape=parallelogram;fillColor=#ccffcc;strokeColor=#000000;strokeWidth=1.0;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="740" y="480" width="100" height="40" as="geometry" />
+          <mxGeometry x="740" y="353" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-34" value="" style="graphMlID=e6;rounded=1;endArrow=block;strokeColor=#008000;dashed=1;dashPattern=1 1;strokeWidth=1.0;startArrow=oval;startFill=0;endFill=0;exitX=0.933;exitY=0.974;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;labelBorderColor=none;fontStyle=0" edge="1" parent="1" target="yCXSfNRGas55IirnGtBg-33" source="yCXSfNRGas55IirnGtBg-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="709" y="663" as="sourcePoint" />
-            <mxPoint x="744" y="630" as="targetPoint" />
+            <mxPoint x="709" y="536" as="sourcePoint" />
+            <mxPoint x="744" y="503" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-35" value="&lt;span style=&quot;color: rgb(0, 128, 0); background-color: rgb(248, 249, 250);&quot;&gt;&lt;font face=&quot;dialog&quot; style=&quot;font-size: 12px;&quot;&gt;jams:hasPatternType&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" connectable="0" parent="yCXSfNRGas55IirnGtBg-34">
@@ -136,8 +106,8 @@
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-36" value="" style="graphMlID=e0;rounded=1;endArrow=block;strokeColor=#000080;strokeWidth=1.0;startArrow=oval;startFill=1;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;fontStyle=0" edge="1" parent="1" source="yCXSfNRGas55IirnGtBg-25" target="yCXSfNRGas55IirnGtBg-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="561" y="394" as="sourcePoint" />
-            <mxPoint x="502" y="165" as="targetPoint" />
+            <mxPoint x="561" y="267" as="sourcePoint" />
+            <mxPoint x="502" y="38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-37" value="&lt;span style=&quot;color: rgb(0, 0, 128); background-color: rgb(248, 249, 250);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;jams:ofPattern&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" connectable="0" parent="yCXSfNRGas55IirnGtBg-36">
@@ -146,13 +116,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-38" value="xsd:float" style="graphMlID=n6;shape=parallelogram;fillColor=#ccffcc;strokeColor=#000000;strokeWidth=1.0;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="590" y="480" width="90" height="39" as="geometry" />
+          <mxGeometry x="590" y="353" width="90" height="39" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-39" value="" style="graphMlID=e6;rounded=1;endArrow=block;strokeColor=#008000;dashed=1;dashPattern=1 1;strokeWidth=1.0;startArrow=oval;startFill=0;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;fontStyle=0" edge="1" parent="1" target="yCXSfNRGas55IirnGtBg-38" source="yCXSfNRGas55IirnGtBg-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="637" y="395" as="sourcePoint" />
-            <mxPoint x="700" y="470" as="targetPoint" />
+            <mxPoint x="637" y="268" as="sourcePoint" />
+            <mxPoint x="700" y="343" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-40" value="&lt;span style=&quot;color: rgb(0, 128, 0); background-color: rgb(248, 249, 250);&quot;&gt;&lt;font face=&quot;dialog&quot; style=&quot;font-size: 12px;&quot;&gt;jams:hasLocation&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" connectable="0" parent="yCXSfNRGas55IirnGtBg-39">
@@ -161,13 +131,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-41" value="xsd:float" style="graphMlID=n6;shape=parallelogram;fillColor=#ccffcc;strokeColor=#000000;strokeWidth=1.0;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="425" y="480" width="93.09" height="39" as="geometry" />
+          <mxGeometry x="425" y="353" width="93.09" height="39" as="geometry" />
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-42" value="" style="graphMlID=e6;rounded=1;endArrow=block;strokeColor=#008000;dashed=1;dashPattern=1 1;strokeWidth=1.0;startArrow=oval;startFill=0;endFill=0;exitX=0.081;exitY=0.936;exitDx=0;exitDy=0;entryX=0.617;entryY=0.03;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;labelBorderColor=none;fontStyle=0" edge="1" parent="1" target="yCXSfNRGas55IirnGtBg-41" source="yCXSfNRGas55IirnGtBg-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="605" y="394" as="sourcePoint" />
-            <mxPoint x="516" y="632" as="targetPoint" />
+            <mxPoint x="605" y="267" as="sourcePoint" />
+            <mxPoint x="516" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-43" value="&lt;font face=&quot;dialog&quot; style=&quot;font-size: 12px;&quot; color=&quot;#008000&quot;&gt;jams:hasPatternComplexity&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0" vertex="1" connectable="0" parent="yCXSfNRGas55IirnGtBg-42">
