@@ -252,7 +252,7 @@
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-35" value="&lt;font face=&quot;dialog&quot; color=&quot;#008000&quot;&gt;xyz:pattern_complexity&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0;fontSize=9;" parent="yCXSfNRGas55IirnGtBg-34" vertex="1" connectable="0">
           <mxGeometry x="-0.087" y="3" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
+            <mxPoint x="3" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-36" value="" style="graphMlID=e0;rounded=1;endArrow=block;strokeColor=#000080;strokeWidth=1.0;startArrow=oval;startFill=1;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontStyle=0;fontSize=9;" parent="1" source="yCXSfNRGas55IirnGtBg-25" target="yCXSfNRGas55IirnGtBg-26" edge="1">
@@ -278,7 +278,7 @@
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-40" value="&lt;span style=&quot;color: rgb(0, 128, 0); background-color: rgb(248, 249, 250);&quot;&gt;&lt;font face=&quot;dialog&quot;&gt;jams:hasLocation&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0;fontSize=9;" parent="yCXSfNRGas55IirnGtBg-39" vertex="1" connectable="0">
           <mxGeometry x="-0.087" y="3" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
+            <mxPoint x="-3" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-41" value="xsd:float" style="graphMlID=n6;shape=parallelogram;fillColor=#ccffcc;strokeColor=#000000;strokeWidth=1.0;rounded=1;labelBorderColor=none;fontStyle=0;fontSize=9;" parent="1" vertex="1">
@@ -293,7 +293,7 @@
         </mxCell>
         <mxCell id="yCXSfNRGas55IirnGtBg-43" value="&lt;font color=&quot;#008000&quot; face=&quot;dialog&quot;&gt;xyz:pattern_content&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0;fontSize=9;" parent="yCXSfNRGas55IirnGtBg-42" vertex="1" connectable="0">
           <mxGeometry x="-0.087" y="3" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
+            <mxPoint x="14" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clCV47z4bkYm3-3w6lYN-40" value="xsd:string" style="graphMlID=n6;shape=parallelogram;fillColor=#ccffcc;strokeColor=#000000;strokeWidth=1.0;rounded=1;labelBorderColor=none;fontStyle=0;fontSize=9;" vertex="1" parent="1">
@@ -308,7 +308,7 @@
         </mxCell>
         <mxCell id="clCV47z4bkYm3-3w6lYN-43" value="&lt;font face=&quot;dialog&quot; color=&quot;#008000&quot;&gt;xyz:pattern_length&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0;fontSize=9;" vertex="1" connectable="0" parent="clCV47z4bkYm3-3w6lYN-42">
           <mxGeometry x="-0.087" y="3" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
+            <mxPoint x="-3" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clCV47z4bkYm3-3w6lYN-44" value="xsd:string" style="graphMlID=n6;shape=parallelogram;fillColor=#ccffcc;strokeColor=#000000;strokeWidth=1.0;rounded=1;labelBorderColor=none;fontStyle=0;fontSize=9;" vertex="1" parent="1">
@@ -323,7 +323,7 @@
         </mxCell>
         <mxCell id="clCV47z4bkYm3-3w6lYN-46" value="&lt;font face=&quot;dialog&quot; color=&quot;#008000&quot;&gt;xyz:pattern_type&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;rounded=1;labelBorderColor=none;fontStyle=0;fontSize=9;" vertex="1" connectable="0" parent="clCV47z4bkYm3-3w6lYN-45">
           <mxGeometry x="-0.087" y="3" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
+            <mxPoint x="-2" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="clCV47z4bkYm3-3w6lYN-49" value="xsd:string" style="graphMlID=n6;shape=parallelogram;fillColor=#ccffcc;strokeColor=#000000;strokeWidth=1.0;rounded=1;labelBorderColor=none;fontStyle=0;fontSize=9;" vertex="1" parent="1">
